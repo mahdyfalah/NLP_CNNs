@@ -1,0 +1,5 @@
+numpy
+pandas
+pydot
+keras_tuner
+graphviz
