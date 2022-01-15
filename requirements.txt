@@ -3,3 +3,7 @@ pandas
 pydot
 keras_tuner
 graphviz
+sklearn
+nltk
+tensorflow
+matplotlib
